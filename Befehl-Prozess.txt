@@ -1,0 +1,10 @@
+mkdir frozzen angelegt
+git clone https://github.com/mh-biplus/froozenyogurtshop.git durchgeführt
+git branch dev_Riemann_translation angelegt
+git status überprüfung 
+git checkout dev_Riemann_translation ausgewählt
+gedit index.html aufgerufen und im footer die Begriffe übersetzt
+git add index.html durchgeführt
+git commit -am "Kommentar" ausgeführt
+git status überprüfung der änderungen
+
